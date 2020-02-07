@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tandem-auto-creations/static/css/main.9c90668f.chunk.css",
+    "main.js": "/tandem-auto-creations/static/js/main.2771951d.chunk.js",
+    "main.js.map": "/tandem-auto-creations/static/js/main.2771951d.chunk.js.map",
+    "runtime-main.js": "/tandem-auto-creations/static/js/runtime-main.fe6a7688.js",
+    "runtime-main.js.map": "/tandem-auto-creations/static/js/runtime-main.fe6a7688.js.map",
+    "static/js/2.ca904903.chunk.js": "/tandem-auto-creations/static/js/2.ca904903.chunk.js",
+    "static/js/2.ca904903.chunk.js.map": "/tandem-auto-creations/static/js/2.ca904903.chunk.js.map",
+    "index.html": "/tandem-auto-creations/index.html",
+    "precache-manifest.ac4e2471dc16f34db5ebc76f1a19ebb0.js": "/tandem-auto-creations/precache-manifest.ac4e2471dc16f34db5ebc76f1a19ebb0.js",
+    "service-worker.js": "/tandem-auto-creations/service-worker.js",
+    "static/css/main.9c90668f.chunk.css.map": "/tandem-auto-creations/static/css/main.9c90668f.chunk.css.map",
+    "static/js/2.ca904903.chunk.js.LICENSE": "/tandem-auto-creations/static/js/2.ca904903.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe6a7688.js",
+    "static/js/2.ca904903.chunk.js",
+    "static/css/main.9c90668f.chunk.css",
+    "static/js/main.2771951d.chunk.js"
+  ]
+}
