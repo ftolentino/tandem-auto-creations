@@ -1,10 +1,10 @@
 import React from 'react';
-
+import TACBanner from '../../assets/TAC_Banner.svg';
 import './homepage.styles.scss';
 
 const HomePage = () => (
 		<div className="homepage">
-			<h1 className="title">Tandem Auto Creations</h1>
+			<img className="logo"src={TACBanner} alt="Tandem Auto Creations"/>
 		</div>
 );
 
