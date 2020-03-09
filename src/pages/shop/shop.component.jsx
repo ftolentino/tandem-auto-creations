@@ -2,12 +2,12 @@ import React from 'react';
 
 import Directory from '../../components/directory/directory.component';
 
-import './deckspage.styles.scss';
+import './shop.styles.scss';
 
-const DecksPage = () => (
+const ShopPage = () => (
 	<div className="deckspage">
 		<Directory />
 	</div>
 );
 
-export default DecksPage;
+export default ShopPage;

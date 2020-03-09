@@ -11,40 +11,28 @@ class Directory extends React.Component {
     this.state = {
       sections: [
         {
-          title: 'Black',
-          imageUrl: 'https://i.ibb.co/zSPJbYz/Ralliart-HB-Skate-Decks-BLK-Correct.png',
+          title: 'hoodies',
+          imageUrl: 'https://images.unsplash.com/photo-1564557287817-3785e38ec1f5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
           id: 1,
-          linkUrl: 'shop/decks'
+          linkUrl: 'shop/hoodies'
         },
         {
-          title: 'Black-White',
-          imageUrl: 'https://i.ibb.co/pfHqL6r/Ralliart-HB-Skate-Decks-BLKWHT-Correct.png',
+          title: 'hats',
+          imageUrl: 'https://images.unsplash.com/photo-1542529727-24cb357c57d2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80',
           id: 2,
-          linkUrl: 'shop/decks'
+          linkUrl: 'shop/hats'
         },
         {
-          title: 'Blue',
-          imageUrl: 'https://i.ibb.co/6rLT7kM/Ralliart-HB-Skate-Decks-BLUE-Correct.jpg',
+          title: 'shirts',
+          imageUrl: 'https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80',
           id: 3,
-          linkUrl: 'shop/decks'
+          linkUrl: 'shop/shirts'
         },
         {
-          title: 'Orange',
-          imageUrl: 'https://i.ibb.co/w7yh1ZQ/Ralliart-HB-Skate-Decks-Orange-Correct.png',
+          title: 'Skate Decks',
+          imageUrl: 'https://i.ibb.co/RvqMhq8/Decks2.jpg',
           size: 'large',
           id: 4,
-          linkUrl: 'shop/decks'
-        },
-        {
-          title: 'Red',
-          imageUrl: 'https://i.ibb.co/4dgVppR/Ralliart-HB-Skate-Decks-RED-Correct.png',
-          id: 5,
-          linkUrl: 'shop/decks'
-        },
-        {
-          title: 'White',
-          imageUrl: 'https://i.ibb.co/1Myh92V/Ralliart-HB-Skate-Decks-WHT-Correct.png',
-          id: 5,
           linkUrl: 'shop/decks'
         }
       ]
