@@ -3,3 +3,13 @@ body {
 	padding: 20px 50px;
 	background-color: #fff0f5;
 }
+
+a {
+	text-decoration: none;
+	color: black;
+	cursor: pointer;
+}
+
+* {
+	box-sizing: border-box;
+}
